@@ -99,4 +99,4 @@ const App = () => {
 };
 export default App;
 
-// rn2: navigation: 15 finished
+// rn2: networking: 10 finished facing problem with LottieView
